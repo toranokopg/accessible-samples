@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Accessible</string>
+
+    <string name="text_def">Text #1</string>
+    <string name="text_cus">Text #2</string>
+    <string name="text_acc">Customized Text #2 accessibility</string>
+
+    <string name="action_def">Action #1</string>
+    <string name="action_cus">Action #2</string>
+    <string name="action_acc">Customized Action #2 accessibility</string>
+
+    <string name="page">Page #%d</string>
+</resources>
